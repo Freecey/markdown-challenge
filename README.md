@@ -6,7 +6,7 @@
 
 *Cats're the master of the world*
 
-![](me-badf_bw.png =250x)
+![](me-badf_bw.png)
 
 ## I'm a unique Human.
 
