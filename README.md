@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Pinnepple on pizza</td>
-    <td>[x]Yes []No</td>
+    <td>[x] Yes [] No</td>
 </rd>
 </table>
 
