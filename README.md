@@ -12,12 +12,12 @@
 ## I'm a unique Human.
 
 
-|-----------|--------------|
+| :---        |         ---: |
 | Birthday | 3rd October |
 | Fav Color | Blue and orher |
 | Fav Footd | Cheese Burger |
 | Pinnepple on pizza | [x]Yes []No |
-|-----------|--------------|
+| :---        |         ---: |
 
 ### Hobbies
 
