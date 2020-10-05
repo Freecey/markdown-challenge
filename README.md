@@ -28,13 +28,7 @@
   </tr>
   <tr>
     <td>Pinnepple on pizza</td>
-    <td><form>
-    <input type="checkbox" id="Pinneapple" name="Yes"
-         checked>
-    <label for="Pinneapple">Yes</label>
-    <input type="checkbox" id="Pinneapple" name="No">
-    <label for="Pinneapple">No</label>
-    </form>
+    <td>- [x] Yes - [] No</td>
 </rd>
 </table>
 
