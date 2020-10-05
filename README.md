@@ -12,6 +12,30 @@
 ## I'm a unique Human.
 
 
+
+<table style="width:50%">
+  <tr>
+    <th> </th>
+    <th> </th> 
+  </tr>
+  <tr>
+    <td>Birthday</td>
+    <td>3rd October</td>
+  </tr>
+  <tr>
+    <td>Fav Color</td>
+    <td>Blue and orhers</td>
+  </tr>
+  <tr>
+    <td>Fav Food</td>
+    <td>Cheese Burger</td>
+  </tr>
+  <tr>
+    <td>Pinnepple on pizza</td>
+    <td>[x]Yes []No</td>
+</rd>
+</table>
+
 | :---        |         ---: |
 | Birthday | 3rd October |
 | Fav Color | Blue and orher |
