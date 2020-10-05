@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Pinnepple on pizza</td>
-    <td>- [x] Yes - [] No</td>
+    <td>- <input type="checkbox" disabled checked />Yes -  <input type="checkbox" disabled /> No</td>
 </rd>
 </table>
 
