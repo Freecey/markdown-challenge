@@ -26,11 +26,11 @@
     <td>Fav Food</td>
     <td>Cheese Burger</td>
   </tr>
-  <tr>
-    <td>Pinnepple on pizza</td>
-    <td>- <input type="checkbox" disabled checked />Yes -  <input type="checkbox" disabled /> No</td>
-</rd>
 </table>
+Pinneapple on pizza  
+- [x] Yes 
+- [ ] No
+
 
 ### Hobbies
 
