@@ -8,35 +8,16 @@
 
 ![](me-badf_bw.png)
 
-
 ## I'm a unique Human.
-
-
 
 |Birthay             |3rd October   |
 |--------------------|--------------|
 |Favorite color      |Blue          |
 |Favorite Food       |Cheese Burger |
 
-<table style="width:50%">
-  <tr>
-    <td>Birthday</td>
-    <td>3rd October</td>
-  </tr>
-  <tr>
-    <td>Fav Color</td>
-    <td>Blue and orhers</td>
-  </tr>
-  <tr>
-    <td>Fav Food</td>
-    <td>Cheese Burger</td>
-  </tr>
-</table>
-
 Pinneapple on pizza  
 - [x] Yes 
 - [ ] No
-
 
 ### Hobbies
 
