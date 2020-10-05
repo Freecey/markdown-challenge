@@ -12,12 +12,12 @@
 ## I'm a unique Human.
 
 
-|-----------|:--------------:|
-| Birthday  |  3rd October   |
+|-----------|--------------|
+| Birthday | 3rd October |
 | Fav Color | Blue and orher |
-| Fav Footd | Cheese Burger  |
+| Fav Footd | Cheese Burger |
 | Pinnepple on pizza | [x]Yes []No |
-|-----------|:--------------:|
+|-----------|--------------|
 
 ### Hobbies
 
@@ -43,4 +43,4 @@ TL;DR (even smaller header, under funny story)
 Summarise your funny story in one short sentence.
 
 
-[<< previous](https://github.com/Freecey/markdown-challenge/blob/main/README.md) || Cedric AUDRIT || [next >>](https://github.com/Freecey/markdown-challenge/blob/main/README.md)  
+[<< previous](https://github.com/iCarolinei/markdown-challenge/) || Cedric AUDRIT || [next >>](https://github.com/Freecey/markdown-challenge/)  
