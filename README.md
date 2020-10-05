@@ -56,4 +56,4 @@ TL;DR (even smaller header, under funny story)
 Summarise your funny story in one short sentence.
 
 
-[<< previous](https://github.com/iCarolinei/markdown-challenge/) || Cedric AUDRIT || [next >>](https://github.com/Freecey/markdown-challenge/)  
+[<< previous](https://github.com/iCarolinei/markdown-challenge/) || Cedric AUDRIT || [next >>](https://github.com/Cedricdebroux/markdown-challenge)  
