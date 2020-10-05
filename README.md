@@ -15,10 +15,6 @@
 
 <table style="width:50%">
   <tr>
-    <th> </th>
-    <th> </th> 
-  </tr>
-  <tr>
     <td>Birthday</td>
     <td>3rd October</td>
   </tr>
@@ -35,13 +31,6 @@
     <td>[x]Yes []No</td>
 </rd>
 </table>
-
-| :---        |         ---: |
-| Birthday | 3rd October |
-| Fav Color | Blue and orher |
-| Fav Footd | Cheese Burger |
-| Pinnepple on pizza | [x]Yes []No |
-| :---        |         ---: |
 
 ### Hobbies
 
