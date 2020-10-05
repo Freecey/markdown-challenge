@@ -6,7 +6,7 @@
 
 *Cats're the master of the world*
 
-![](me-badf_bw.png)
+![](me-badf_bw.png){ width=50% }
 
 ## I'm a unique Human.
 
