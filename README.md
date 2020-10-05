@@ -49,11 +49,7 @@ Joy, good humor, fun. System information such as how install and use apache, mys
 
 #### A funny story
 
-Tell a short funny story about your life.
-
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
+one day at the callcenter, a customer calls me to say that the new wireless modem is not working. I ask him where is the modem. he will answer me in the box on the table because it is wireless so no need to plug it in...
 
 
 [<< previous](https://github.com/iCarolinei/markdown-challenge/) || Cedric AUDRIT || [next >>](https://github.com/Cedricdebroux/markdown-challenge)  
